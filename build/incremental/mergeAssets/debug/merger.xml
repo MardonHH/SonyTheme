@@ -6414,6 +6414,72 @@
             <file
                 name="icons/res/drawable-hdpi/downloads.png"
                 path="E:\THEME\SonyTheme\assets\icons\res\drawable-hdpi\downloads.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/ic_sysbar_home.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\ic_sysbar_home.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/ic_sysbar_menu_land.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\ic_sysbar_menu_land.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/ic_sysbar_home_land.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\ic_sysbar_home_land.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/ic_sysbar_back_land.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\ic_sysbar_back_land.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/ic_sysbar_highlight.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\ic_sysbar_highlight.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/ic_sysbar_ime_default.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\ic_sysbar_ime_default.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/ic_sysbar_recent_land.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\ic_sysbar_recent_land.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/ic_sysbar_back_ime_default.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\ic_sysbar_back_ime_default.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/ic_sysbar_menu.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\ic_sysbar_menu.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/ic_sysbar_highlight_land.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\ic_sysbar_highlight_land.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/ic_sysbar_recent.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\ic_sysbar_recent.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/ic_sysbar_back.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\ic_sysbar_back.png" />
+            <file
+                name="overlays/com.cyanogenmod.lockclock/res/drawable-hdpi/weather_preferences.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.cyanogenmod.lockclock\res\drawable-hdpi\weather_preferences.png" />
+            <file
+                name="overlays/com.cyanogenmod.lockclock/res/drawable-hdpi/clock_preferences.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.cyanogenmod.lockclock\res\drawable-hdpi\clock_preferences.png" />
+            <file
+                name="boot-animation/bootanimation.zip"
+                path="E:\THEME\SonyTheme\assets\boot-animation\bootanimation.zip" />
+            <file
+                name="overlays/com.cyanogenmod.lockclock/res/drawable-hdpi/calendar_preferences.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.cyanogenmod.lockclock\res\drawable-hdpi\calendar_preferences.png" />
+            <file
+                name="overlays/com.cyanogenmod.trebuchet/res/drawable-hdpi/ic_allapps_pressed.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.cyanogenmod.trebuchet\res\drawable-hdpi\ic_allapps_pressed.png" />
+            <file
+                name="overlays/com.anddoes.launcher/res/drawable-hdpi/ic_allapps_pressed.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.anddoes.launcher\res\drawable-hdpi\ic_allapps_pressed.png" />
+            <file
+                name="overlays/com.anddoes.launcher/res/drawable-hdpi/ic_allapps.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.anddoes.launcher\res\drawable-hdpi\ic_allapps.png" />
+            <file
+                name="overlays/com.cyanogenmod.trebuchet/res/drawable-hdpi/ic_allapps.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.cyanogenmod.trebuchet\res\drawable-hdpi\ic_allapps.png" />
+            <file
+                name="overlays/com.google.android.googlequicksearchbox/res/drawable-hdpi/ic_allapps_pressed.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.google.android.googlequicksearchbox\res\drawable-hdpi\ic_allapps_pressed.png" />
+            <file
+                name="overlays/com.google.android.googlequicksearchbox/res/drawable-hdpi/ic_allapps.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.google.android.googlequicksearchbox\res\drawable-hdpi\ic_allapps.png" />
         </source>
     </dataSet>
     <dataSet config="debug" >

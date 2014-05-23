@@ -20,24 +20,21 @@ GreatFreedom is a theme that is stylishly designed with solid colors,
 I tried to keep it as close to stock CM as possible apart from the icons.
 
 What's Themed/Included
-* Framework
-* Systemui
+* Framework (partially)
+* Systemui (partially)
 * Settings
-* Dialer
+* SonyTheme Icons
+* LockClock
+* ApexLauncher (partially)
+* Google Launcher (partially)
+* CM-Trebuchet Launcher (partially)
 * Mms Widget
 * Email Widget
 * Gmail Widget
 * Facebook Widget
-* LockClock
-* ApexLauncher
 * Power Control Widget
-
-* Custom ringtones/alarms/notifications
 * GreatFreedom wallpaper
-* SonyTheme iconpack
 * GreatFreedom fonts
-
-Link to Play Store
 
 
 Made by Mardon <markusmenzel@gmail.com>
@@ -48,8 +45,10 @@ Made by Mardon <markusmenzel@gmail.com>
 * Feel free to request for specific icons
 * Sony wallpaper
 * Sony fonts
-
-*MISC
+* Sony ringtones/alarms/notifications
+* Dialer
+* Bootanimation
+* MISC
 
 Widget Border Blue Color
 #55acee
