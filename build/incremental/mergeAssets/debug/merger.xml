@@ -4,9 +4,6 @@
     <dataSet config="main" >
         <source path="E:\THEME\SonyTheme\assets" >
             <file
-                name="alarms/Light.ogg"
-                path="E:\THEME\SonyTheme\assets\alarms\Light.ogg" />
-            <file
                 name="fonts/fonts.xml"
                 path="E:\THEME\SonyTheme\assets\fonts\fonts.xml" />
             <file
@@ -333,9 +330,6 @@
             <file
                 name="icons/res/xml/appfilter.xml"
                 path="E:\THEME\SonyTheme\assets\icons\res\xml\appfilter.xml" />
-            <file
-                name="notifications/Teleport.ogg"
-                path="E:\THEME\SonyTheme\assets\notifications\Teleport.ogg" />
             <file
                 name="overlays/android/res/drawable-hdpi/activity_picker_bg_activated.9.png"
                 path="E:\THEME\SonyTheme\assets\overlays\android\res\drawable-hdpi\activity_picker_bg_activated.9.png" />
@@ -6346,9 +6340,6 @@
                 name="overlays/net.cactii.flash2/res/drawable-xxhdpi/icon.png"
                 path="E:\THEME\SonyTheme\assets\overlays\net.cactii.flash2\res\drawable-xxhdpi\icon.png" />
             <file
-                name="ringtones/Old_Phone.ogg"
-                path="E:\THEME\SonyTheme\assets\ringtones\Old_Phone.ogg" />
-            <file
                 name="wallpapers/wallpaper1.jpg"
                 path="E:\THEME\SonyTheme\assets\wallpapers\wallpaper1.jpg" />
             <file
@@ -6480,6 +6471,93 @@
             <file
                 name="overlays/com.google.android.googlequicksearchbox/res/drawable-hdpi/ic_allapps.png"
                 path="E:\THEME\SonyTheme\assets\overlays\com.google.android.googlequicksearchbox\res\drawable-hdpi\ic_allapps.png" />
+            <file
+                name="overlays/com.cyanogenmod.trebuchet/res/drawable-hdpi/ic_widget_pressed.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.cyanogenmod.trebuchet\res\drawable-hdpi\ic_widget_pressed.png" />
+            <file
+                name="overlays/com.cyanogenmod.trebuchet/res/drawable-hdpi/ic_setting.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.cyanogenmod.trebuchet\res\drawable-hdpi\ic_setting.png" />
+            <file
+                name="overlays/com.anddoes.launcher/res/drawable-hdpi/ic_widget.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.anddoes.launcher\res\drawable-hdpi\ic_widget.png" />
+            <file
+                name="overlays/com.google.android.googlequicksearchbox/res/drawable-hdpi/ic_setting.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.google.android.googlequicksearchbox\res\drawable-hdpi\ic_setting.png" />
+            <file
+                name="overlays/com.google.android.googlequicksearchbox/res/drawable-hdpi/ic_wallpaper.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.google.android.googlequicksearchbox\res\drawable-hdpi\ic_wallpaper.png" />
+            <file
+                name="overlays/com.google.android.googlequicksearchbox/res/drawable-hdpi/ic_widget_pressed.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.google.android.googlequicksearchbox\res\drawable-hdpi\ic_widget_pressed.png" />
+            <file
+                name="overlays/com.google.android.googlequicksearchbox/res/drawable-hdpi/ic_wallpaper_pressed.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.google.android.googlequicksearchbox\res\drawable-hdpi\ic_wallpaper_pressed.png" />
+            <file
+                name="overlays/com.anddoes.launcher/res/drawable-hdpi/ic_wallpaper_pressed.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.anddoes.launcher\res\drawable-hdpi\ic_wallpaper_pressed.png" />
+            <file
+                name="overlays/com.cyanogenmod.trebuchet/res/drawable-hdpi/ic_setting_pressed.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.cyanogenmod.trebuchet\res\drawable-hdpi\ic_setting_pressed.png" />
+            <file
+                name="overlays/com.cyanogenmod.trebuchet/res/drawable-hdpi/ic_wallpaper.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.cyanogenmod.trebuchet\res\drawable-hdpi\ic_wallpaper.png" />
+            <file
+                name="overlays/com.google.android.googlequicksearchbox/res/drawable-hdpi/ic_widget.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.google.android.googlequicksearchbox\res\drawable-hdpi\ic_widget.png" />
+            <file
+                name="overlays/com.anddoes.launcher/res/drawable-hdpi/ic_setting_pressed.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.anddoes.launcher\res\drawable-hdpi\ic_setting_pressed.png" />
+            <file
+                name="overlays/com.google.android.googlequicksearchbox/res/drawable-hdpi/ic_setting_pressed.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.google.android.googlequicksearchbox\res\drawable-hdpi\ic_setting_pressed.png" />
+            <file
+                name="overlays/com.anddoes.launcher/res/drawable-hdpi/ic_wallpaper.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.anddoes.launcher\res\drawable-hdpi\ic_wallpaper.png" />
+            <file
+                name="overlays/com.cyanogenmod.trebuchet/res/drawable-hdpi/ic_wallpaper_pressed.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.cyanogenmod.trebuchet\res\drawable-hdpi\ic_wallpaper_pressed.png" />
+            <file
+                name="overlays/com.anddoes.launcher/res/drawable-hdpi/ic_setting.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.anddoes.launcher\res\drawable-hdpi\ic_setting.png" />
+            <file
+                name="overlays/com.anddoes.launcher/res/drawable-hdpi/ic_widget_pressed.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.anddoes.launcher\res\drawable-hdpi\ic_widget_pressed.png" />
+            <file
+                name="overlays/com.cyanogenmod.trebuchet/res/drawable-hdpi/ic_widget.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.cyanogenmod.trebuchet\res\drawable-hdpi\ic_widget.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/stat_sys_no_sim.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\stat_sys_no_sim.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/stat_sys_sync_error.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\stat_sys_sync_error.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/stat_sys_signal_flightmode.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\stat_sys_signal_flightmode.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/stat_sys_sync.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\stat_sys_sync.png" />
+            <file
+                name="overlays/com.android.systemui/res/drawable-hdpi/stat_sys_alarm.png"
+                path="E:\THEME\SonyTheme\assets\overlays\com.android.systemui\res\drawable-hdpi\stat_sys_alarm.png" />
+            <file
+                name="ringtones/xperia.ogg"
+                path="E:\THEME\SonyTheme\assets\ringtones\xperia.ogg" />
+            <file
+                name="images/style.jpg"
+                path="E:\THEME\SonyTheme\assets\images\style.jpg" />
+            <file
+                name="notifications/notification.ogg"
+                path="E:\THEME\SonyTheme\assets\notifications\notification.ogg" />
+            <file
+                name="images/preview.png"
+                path="E:\THEME\SonyTheme\assets\images\preview.png" />
+            <file
+                name="alarms/alarm.ogg"
+                path="E:\THEME\SonyTheme\assets\alarms\alarm.ogg" />
+            <file
+                name="overlays/org.cyanogenmod.theme.chooser/res/drawable-xhdpi/ic_action_gallery.png"
+                path="E:\THEME\SonyTheme\assets\overlays\org.cyanogenmod.theme.chooser\res\drawable-xhdpi\ic_action_gallery.png" />
         </source>
     </dataSet>
     <dataSet config="debug" >
